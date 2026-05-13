@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>CSharp_68PM2_LeTrungHieu_0010568</AssemblyName>
+    <RootNamespace>CSharp_68PM2_LeTrungHieu_0010568</RootNamespace>
   </PropertyGroup>
 
 </Project>
